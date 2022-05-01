@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>PHP Graph Tutorial</title>
+    <title>TPS</title>
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
       integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
@@ -13,7 +13,7 @@
   <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
       <div class="container">
-        <a href="/" class="navbar-brand">PHP Graph Tutorial</a>
+        <a href="/" class="navbar-brand">TPS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -31,8 +31,8 @@
           </ul>
           <ul class="navbar-nav justify-content-end">
             <li class="nav-item">
-              <a class="nav-link" href="https://docs.microsoft.com/graph/overview" target="_blank">
-                <i class="fas fa-external-link-alt mr-1"></i>Docs
+              <!-- <a class="nav-link" href="https://docs.microsoft.com/graph/overview" target="_blank"> -->
+                <!-- <i class="fas fa-external-link-alt mr-1"></i>Docs -->
               </a>
             </li>
             @if(isset($userName))
